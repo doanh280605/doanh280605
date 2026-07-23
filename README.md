@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./avi-ascii.svg" width="460" alt="Animated ASCII portrait of Doanh Phung" />
+</p>
+
 # 💫 About Me:
 Gigachad Computer Science Student
 
