@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "source-prepped.png"
 OUTPUT = ROOT / "avi-ascii.svg"
 
-COLS = 100
+COLS = 140
 CELL_W = 6
 CELL_H = 10
 RAMP = " .`:-=+*cs#%@"
