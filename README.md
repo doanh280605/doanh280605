@@ -1,5 +1,21 @@
 # 💫 About Me:
-Gigachad Computer Science Student
+Software engineer focused on AI infrastructure, backend systems, and developer tools.
+
+ 
+
+At PayPal, I’ve worked on production AI systems including an AI-powered Slack triage agent that investigates Datadog alerts through MCP, learns from engineer feedback, and automates reliability workflows. I’ve also built developer tooling for code generation, migrations, validation, deployment, and monitoring across multi-language systems.
+
+ 
+
+Outside of PayPal, I build AI products and infrastructure. My projects include Captain Ddoski, a finance-source credibility system for AI agents that won 2nd place at the Berkeley AI Hackathon Terac Track, and Repo2Resume, which won Best Software at a WPI hackathon.
+
+ 
+
+Technologies I work with include Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, FastAPI, AWS, REST, GraphQL, MCP, Datadog, CI/CD, LLM APIs, and AI agents.
+
+ 
+
+Currently interested in 2027 New Grad opportunities in Software Engineering, AI Infrastructure, Backend Engineering, Developer Tools, Platform Engineering, and ML Infrastructure.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pld.doanh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doanh-phung-21583a1b2/) 
